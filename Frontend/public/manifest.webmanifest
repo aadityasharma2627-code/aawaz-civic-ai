@@ -1,0 +1,10 @@
+{
+  "name": "Awaaz — AI that hears Chandigarh",
+  "short_name": "Awaaz",
+  "description": "Report civic problems using your voice, text or a photo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "lang": "en"
+}
